@@ -1,2 +1,2 @@
-# my
+# myproject
 This is test repository
